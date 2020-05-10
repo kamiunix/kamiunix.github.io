@@ -4,7 +4,7 @@
   quote: >
     Samuel Champagne, Tokunbo Makanju, Chengchao Yao, Nur Zincir-Heywood and Malcom Heywood
   description: | # this will include new lines to allow paragraphs
-    In this this paper, we propose a multi-objective genetic algorithm based approach to the controller placement problem that minimizes inter-controller latency, load distribution and the number of controllers with fitness sharing. We demonstrate that the proposed approach provides diverse and adaptive solutions to real network architectures such as the United States backbone and Japanese backbone networks. 
+    In this paper, we propose a multi-objective genetic algorithm based approach to the controller placement problem that minimizes inter-controller latency, load distribution and the number of controllers with fitness sharing. We demonstrate that the proposed approach provides diverse and adaptive solutions to real network architectures such as the United States backbone and Japanese backbone networks. 
 
 
 - layout: top-middle
