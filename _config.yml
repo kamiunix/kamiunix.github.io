@@ -6,16 +6,16 @@ favicon: images/favicon.ico
 name: Samuel Champagne 
 title: Software Engineer
 email: sam.c.tur@gmail.com
-website: www.kamiunix.github.io
+website: kamiunix.github.io
 
 # Social links
-github_username:  sproogen
-instagram_username: samix
-linkedin_username: samuel-champagne
+github_username: kamiunix 
+instagram_username: samunix
+linkedin_username: samuel-champagne-52790316b 
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sam and I'm a software engineer. On top of software engineering I have experience as an undergraduate researcher and teaching assistant.  I have experience working on genetic algorithms, developing research and development tools for large companies as well managing and guiding new hires and coop students.
 
