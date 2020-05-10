@@ -1,0 +1,53 @@
+# Site
+repository: kamiunix/kamiunix.github.io 
+favicon: images/favicon.ico
+
+# Personal info
+name: Samuel Champagne 
+title: Software Engineer
+email: sam.c.tur@gmail.com
+website: www.kamiunix.github.io
+
+# Social links
+github_username:  sproogen
+instagram_username: samix
+linkedin_username: samuel-champagne
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Sam and I'm a software engineer. On top of software engineering I have experience as an undergraduate researcher and teaching assistant.  I have experience working on genetic algorithms, developing research and development tools for large companies as well managing and guiding new hires and coop students.
+
+  I am most skilled in: <mark>Java</mark>, <mark>Genetic Algorithms</mark> and <mark>Rock Climbing</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Rock climbing
+   - Gaming
+   - LeetCoding 
+   - Learning
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

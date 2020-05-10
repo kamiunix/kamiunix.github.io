@@ -1,0 +1,30 @@
+- layout: left
+  company: Lockheed Martin 
+  link: lockheedmartin.com
+  job_title: Software Engineer 
+  dates: April 2019 - Present
+  quote: >
+   Software Development work for Internal Research and Development (IRAD). 
+  description: | # this will include new lines to allow paragraphs
+    I helped modernize and improve old projects by doing a requirements analysis of old and new projects (C, C++, Java). As part of an Agile team I broke down epics into stories that could then be assigned to teammates. 
+
+- layout: left
+  company: Dalhousie University 
+  link: dal.ca
+  job_title: Teaching Assistant 
+  dates: September 2018 - April 2019 
+  quote: >
+   Student teaching students
+  description: | # this will include new lines to allow paragraphs
+    I helped provide instructional support to computer science students by teaching the lab component for Computer Organization and Assembly Language (CSCI 2121) and marking assignments for Network Security (CSCI4174).
+
+
+- layout: left
+  company: Network Information Management and Security Group 
+  link: https://projects.cs.dal.ca/projectx/ 
+  job_title: Student Researcher 
+  dates: September 2018 - April 2019 
+  quote: >
+   Awarded an NSERC USRA for research in software defined networking using genetic algorithms
+  description: | # this will include new lines to allow paragraphs
+    I Worked on research projects under the supervision of Dr. Nur Zincir-Heywood and Dr. TokunboMakanju which applied genetic algorithms to software defined networking to provide a solution set to the controller placement problem with theoretical applications in moving target defence. The research brought me to Kyoto were it was published and presented at the Genetic and Evolutionary Computation Conference (GECCO) 2018.

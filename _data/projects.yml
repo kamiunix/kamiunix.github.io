@@ -1,0 +1,17 @@
+- layout: top-middle
+  name: A Genetic Algorithm for Controller Placement in Software Deﬁned Networking 
+  link: https://dl.acm.org/doi/10.1145/3205651.3208244
+  quote: >
+    Samuel Champagne, Tokunbo Makanju, Chengchao Yao, Nur Zincir-Heywood and Malcom Heywood
+  description: | # this will include new lines to allow paragraphs
+    In this this paper, we propose a multi-objective genetic algorithm based approach to the controller placement problem that minimizes inter-controller latency, load distribution and the number of controllers with fitness sharing. We demonstrate that the proposed approach provides diverse and adaptive solutions to real network architectures such as the United States backbone and Japanese backbone networks. 
+
+
+- layout: top-middle
+  name: Opengate 
+  link: github.com/kamiunix/opengate
+  github: kamiunix/opengate
+  quote: >
+   A webscraper and organizer/parser for free VPNs on vpngate.net to be used on the command line
+  description: | # this will include new lines to allow paragraphs
+    I started this project as a way of learning python, simple data structures and web technologies. The application finds all VPNs on vpngate and orders them based on user defined requirements such as whitelist contries, blacklist countries, bandwidth requirements, etc.

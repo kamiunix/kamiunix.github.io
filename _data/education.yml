@@ -1,0 +1,9 @@
+- layout: left
+  name: Dalhousie University
+  dates: 2014 - 2019
+  qualification: BSc Computer Science
+  quote: >
+    Established in 1818, dalhousie Univerity is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in Canada.
+  description: | # this will include new lines to allow paragraphs
+      During my time at Dalhousie University I learned solid Computer Science fundamentals as well as leadership and communication skills as a Teaching Assistant and published Author.
+
