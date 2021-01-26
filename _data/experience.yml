@@ -6,7 +6,7 @@
   quote: >
    Software Development for Avestec Technologies inc.
   description: | # this will include new lines to allow paragraphs
-          Upgraded visual software in the backend software to enable remote optical zooming with with a RESTfull api triggered via an upgraded frontend.
+          Maintained the frontend and backend components to maintain a competitive advantage in the robotic inspection sector using python, django, c++, opencv and other visual robitic technologies.
 - layout: left
   company: Lockheed Martin 
   link: lockheedmartin.com
