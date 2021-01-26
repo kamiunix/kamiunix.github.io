@@ -1,8 +1,17 @@
 - layout: left
+  company: Avestec Technologies 
+  link: avestec.com
+  job_title: Software Engineer 
+  dates: 2020 - Present
+  quote: >
+   Software Development for Avestec Technologies inc.
+  description: | # this will include new lines to allow paragraphs
+          Upgraded visual software in the backend software to enable remote optical zooming with with a RESTfull api triggered via an upgraded frontend.
+- layout: left
   company: Lockheed Martin 
   link: lockheedmartin.com
   job_title: Software Engineer 
-  dates: April 2019 - Present
+  dates: 2019 - 2020 
   quote: >
    Software Development work for Internal Research and Development (IRAD). 
   description: | # this will include new lines to allow paragraphs
@@ -12,7 +21,7 @@
   company: Dalhousie University 
   link: dal.ca
   job_title: Teaching Assistant 
-  dates: September 2018 - April 2019 
+  dates: 2018 - 2019 
   quote: >
    Student teaching students
   description: | # this will include new lines to allow paragraphs
@@ -23,7 +32,7 @@
   company: Network Information Management and Security Group 
   link: https://projects.cs.dal.ca/projectx/ 
   job_title: Student Researcher 
-  dates: September 2018 - April 2019 
+  dates: 2018 - 2019 
   quote: >
    Awarded an NSERC USRA for research in software defined networking using genetic algorithms
   description: | # this will include new lines to allow paragraphs
