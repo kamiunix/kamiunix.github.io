@@ -22,17 +22,17 @@
    Software Development for Envirosoft Corporation
   description: | # this will include new lines to allow paragraphs
     • Provided technical details on a new emissions forecasting tool, leading to an IRAP grant of $500,000 and the creation of 4 new positions.
-  \n
+
     • Designed and implemented a new REACT application for scenario management and emissions forecasting, resulting in increased productivity, customer satisfaction and customer acquisition.
-  \n
+
     • Developed a scalable database solution for machine learning models, enabling faster and more accurate data processing.
-  \n
+
     • Implemented a Spring Boot API for a new Database for use with an ambitious emissions forecasting project, resulting in improved performance and scalab-ility.
-  \n
+
     • Collaborated with Alberta Machine Intelligence Institute (Amii) to validate technical models for time series forecasting, ensuring high accuracy and reliability.
-  \n
+
     • Designed, developed, and improved multiple time series forecasting models, including S/ARIMA/X, LSTM, and other variants, resulting in improved forecast accuracy and model performance.
-  \n
+
   Tech stack: Java, SQL, JSF, Tomcat, Spring Boot, React, Python
 
 - layout: left
