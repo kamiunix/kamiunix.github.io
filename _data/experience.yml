@@ -1,12 +1,54 @@
 - layout: left
+  company: Envirosoft Corporation
+  link: envirosoft.com
+  job_title: Senior Software Developer 
+  dates: 2023 - Present
+  quote: >
+   Senior Software Development for Envirosoft Corporation
+  description: | # this will include new lines to allow paragraphs
+    • Provided technical leadership for a forecasting initiative, ensuring the team meets deadlines and aligns with project goals.
+    • Collaborated with customer success and product to deliver products and features.
+    • Co-lead a team of 8+ software and QA engineers, providing guidance and mentorship as needed.
+    • Accountable for sprint delivery and backlog management, ensuring user stories and epics are aligned with the product roadmap and customer needs.
+    • Successfully delivered multiple new products and features on time and within time constraints
+  Tech stack: REACT, SQL, Next, Spring Boot, and Python
+
+- layout: left
+  company: Envirosoft Corporation 
+  link: avestec.com
+  job_title: Software Developer
+  dates: 2021 - 2023 
+  quote: >
+   Software Development for Envirosoft Corporation
+  description: | # this will include new lines to allow paragraphs
+    • Provided technical details on a new emissions forecasting tool, leading to an IRAP grant of $500,000 and the creation of 4 new positions.
+    • Designed and implemented a new REACT application for scenario management and emissions forecasting, resulting in increased productivity, customer satisfaction and customer acquisition.
+    • Developed a scalable database solution for machine learning models, enabling faster and more accurate data processing.
+    • Implemented a Spring Boot API for a new Database for use with an ambitious emissions forecasting project, resulting in improved performance and scalab-ility.
+    • Collaborated with Alberta Machine Intelligence Institute (Amii) to validate technical models for time series forecasting, ensuring high accuracy and reliability.
+    • Designed, developed, and improved multiple time series forecasting models, including S/ARIMA/X, LSTM, and other variants, resulting in improved forecast accuracy and model performance.
+  Tech stack: Java, SQL, JSF, Tomcat, Spring Boot, React, Python
+
+- layout: left
   company: Avestec Technologies 
   link: avestec.com
   job_title: Software Engineer 
-  dates: 2020 - Present
+  dates: 2020 - 2021 
   quote: >
    Software Development for Avestec Technologies inc.
   description: | # this will include new lines to allow paragraphs
           Maintained the frontend and backend components to maintain a competitive advantage in the robotic inspection sector using python, django, c++, opencv and other visual robitic technologies.
+
+- layout: left
+  company: Lockheed Martin 
+  link: lockheedmartin.com
+  job_title: Software Engineer 
+  dates: 2019 - 2020 
+  quote: >
+   Software Development work for Internal Research and Development (IRAD). 
+  description: | # this will include new lines to allow paragraphs
+    I helped modernize and improve old projects by doing a requirements analysis of old and new projects (C, C++, Java). As part of an Agile team I broke down epics into stories that could then be assigned to teammates. 
+
 - layout: left
   company: Lockheed Martin 
   link: lockheedmartin.com
