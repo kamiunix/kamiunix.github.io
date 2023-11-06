@@ -6,15 +6,11 @@
   quote: >
    Senior Software Development for Envirosoft Corporation
   description: | # this will include new lines to allow paragraphs
-    • Provided technical leadership for a forecasting initiative, ensuring the team meets deadlines and aligns with project goals.
-
-    • Collaborated with customer success and product to deliver products and features.
-
-    • Co-lead a team of 8+ software and QA engineers, providing guidance and mentorship as needed.
-
-    • Accountable for sprint delivery and backlog management, ensuring user stories and epics are aligned with the product roadmap and customer needs.
-
-    • Successfully delivered multiple new products and features on time and within time constraints
+    - Provided technical leadership for a forecasting initiative, ensuring the team meets deadlines and aligns with project goals.
+    - Collaborated with customer success and product to deliver products and features.
+    - Co-lead a team of 8+ software and QA engineers, providing guidance and mentorship as needed.
+    - Accountable for sprint delivery and backlog management, ensuring user stories and epics are aligned with the product roadmap and customer needs.
+    - Successfully delivered multiple new products and features on time and within time constraints
 
   Tech stack: REACT, SQL, Next, Spring Boot, and Python
 
@@ -26,17 +22,12 @@
   quote: >
    Software Development for Envirosoft Corporation
   description: | # this will include new lines to allow paragraphs
-    • Provided technical details on a new emissions forecasting tool, leading to an IRAP grant of $500,000 and the creation of 4 new positions.
-
-    • Designed and implemented a new REACT application for scenario management and emissions forecasting, resulting in increased productivity, customer satisfaction and customer acquisition.
-
-    • Developed a scalable database solution for machine learning models, enabling faster and more accurate data processing.
-
-    • Implemented a Spring Boot API for a new Database for use with an ambitious emissions forecasting project, resulting in improved performance and scalab-ility.
-
-    • Collaborated with Alberta Machine Intelligence Institute (Amii) to validate technical models for time series forecasting, ensuring high accuracy and reliability.
-
-    • Designed, developed, and improved multiple time series forecasting models, including S/ARIMA/X, LSTM, and other variants, resulting in improved forecast accuracy and model performance.
+    - Provided technical details on a new emissions forecasting tool, leading to an IRAP grant of $500,000 and the creation of 4 new positions.
+    - Designed and implemented a new REACT application for scenario management and emissions forecasting, resulting in increased productivity, customer satisfaction and customer acquisition.
+    - Developed a scalable database solution for machine learning models, enabling faster and more accurate data processing.
+    - Implemented a Spring Boot API for a new Database for use with an ambitious emissions forecasting project, resulting in improved performance and scalab-ility.
+    - Collaborated with Alberta Machine Intelligence Institute (Amii) to validate technical models for time series forecasting, ensuring high accuracy and reliability.
+    - Designed, developed, and improved multiple time series forecasting models, including S/ARIMA/X, LSTM, and other variants, resulting in improved forecast accuracy and model performance.
 
   Tech stack: Java, SQL, JSF, Tomcat, Spring Boot, React, Python
 
