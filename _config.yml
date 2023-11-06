@@ -11,7 +11,7 @@ website: kamiunix.github.io
 # Social links
 github_username: kamiunix 
 instagram_username: samunix
-linkedin_username: samuel-champagne-52790316b 
+linkedin_username: samuel-champagne
 
 # About Section
 # about_title: About Me
@@ -21,11 +21,11 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Java</mark>, <mark>Genetic Algorithms</mark> and <mark>Rock Climbing</mark>
 
-# Projects Section
-# projects_title: Projects
-
 # Experience Section
 # experience_title: Experience
+
+# Projects Section
+# projects_title: Projects
 
 # Education Section
 # educaton_title: Education
