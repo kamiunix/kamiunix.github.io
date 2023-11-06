@@ -52,16 +52,6 @@
     I helped modernize and improve old projects by doing a requirements analysis of old and new projects (C, C++, Java). As part of an Agile team I broke down epics into stories that could then be assigned to teammates. 
 
 - layout: left
-  company: Lockheed Martin 
-  link: lockheedmartin.com
-  job_title: Software Engineer 
-  dates: 2019 - 2020 
-  quote: >
-   Software Development work for Internal Research and Development (IRAD). 
-  description: | # this will include new lines to allow paragraphs
-    I helped modernize and improve old projects by doing a requirements analysis of old and new projects (C, C++, Java). As part of an Agile team I broke down epics into stories that could then be assigned to teammates. 
-
-- layout: left
   company: Dalhousie University 
   link: dal.ca
   job_title: Teaching Assistant 
